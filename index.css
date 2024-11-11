@@ -1,0 +1,18 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-image: url("images/table.png");
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    background-color: goldenrod;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 150px;
+}
